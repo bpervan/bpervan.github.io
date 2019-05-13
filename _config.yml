@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Branimir Pervan"
 title_separator          : "-"
 name                     : &name "Branimir Pervan"
-description              : &description "Research and teaching assistant at University of Zagreb Faculty of Electrical Engineering and Computing, Pursuing PhD in Computing"
+description              : &description "Research and teaching assistant at University of Zagreb Faculty of Electrical Engineering and Computing"
 url                      : https://bpervan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bpervan/bpervan.github.io"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Branimir Pervan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  bio              : "Research and teaching assistant at University of Zagreb, Faculty of Electrical Engineering and Computing"
+  location         : "Zagreb, Croatia"
+  employer         : "University of Zagreb"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.hr/citations?user=bzNtoo8AAAAJ"
+  email            : "branimir.pervan@fer.hr"
+  researchgate     : "https://www.researchgate.net/profile/Branimir_Pervan"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "bpervan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/braninimirpervan"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "bpervan"
   vine             :
   weibo            :
   xing             :
