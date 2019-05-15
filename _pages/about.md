@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Soon
+Generating data. Please be patient :)
+
+Research
+===
