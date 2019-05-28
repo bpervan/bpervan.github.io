@@ -11,7 +11,7 @@ title                    : "Branimir Pervan"
 title_separator          : "-"
 name                     : &name "Branimir Pervan"
 description              : &description "Research and teaching assistant at University of Zagreb Faculty of Electrical Engineering and Computing"
-url                      : https://bpervan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bpervan/bpervan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.hr/citations?user=bzNtoo8AAAAJ"
   email            : "branimir.pervan@fer.hr"
   researchgate     : "https://www.researchgate.net/profile/Branimir_Pervan"
-  uri              : 
+  uri              : "https://www.fer.unizg.hr/branimir.pervan"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -216,8 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
