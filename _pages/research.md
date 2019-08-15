@@ -14,11 +14,26 @@ My research interests can be generalized to these four fields:
 Research projects:
 * HCSCA - Heterogeneous Computing Systems with Customized Accelerators (July 2019 - July 2022)
     * Role: Researcher
-    * ETH Zurich and UniZG FER joint project which aims to develop a novel heterogeneous accelerated computing system architecture based on RISC-V with accelerators for disruptive application domains (namely Machine learning, Crypto processing, Video processing). Furthermore, the project includes software support for proposed heterogeneous architecture and validation of disruptive applications. The project is funded by Swiss-Croatian Cooperation programme (Swiss National Science Foundation (http://www.snf.ch/) and Croatian Science Foundation (https://www.hrzz.hr))
+    * ETH Zurich and UniZG FER joint project which aims to develop a novel heterogeneous accelerated computing system architecture based on RISC-V with accelerators for disruptive application domains (namely Machine learning, Crypto processing, Video processing). Furthermore, the project includes software support for proposed heterogeneous architecture and validation of disruptive applications. The project is funded by Swiss-Croatian Cooperation programme (Swiss National Science Foundation (http://www.snf.ch/) and Croatian Science Foundation (https://www.hrzz.hr)).
+
+* Hazelnut
+    * Role: Researcher
+    * This project is a joint project between distinct researchers at UniZG FER and Green Light Technologies Ltd. Project aims to develop a low cost ultra energy efficient modules for wide variety of Internet of Things applications by exploiting heterogeneity using cheap but reliable off the shelf components.
+    * [Paper](/publication/ecbs-hazelnut)
 
 * Jobbee
     * Role: Researcher / Developer
-    * An intelligent matchmaker between generic job offerers and clients
+    * An intelligent matchmaker between generic job offerers and clients.
+
+* Cool Cracker Cluster
+    * Role: Researcher
+    * This research project by UniZG FER was investigating on how to exploit heterogeneity to raise energy efficiency and performance in bcrypt hash computation. The ulimate deliverable of this project is our Cool Cracker Cluster.
+    * [Paper](/publication/woot-ccc)
+
+* Houseleek
+    * Role: Consultant
+    * Houseleek is a project which aims to deliver a novel reliable and centralized facility management system. By utilizing Deep Neural Network to authorize entrance to individual spaces using image of the user's face, project Houseleek introduces new ergonomy standards in large and managed premises.
+    * [Paper](/publication/mipro-houseleek)
 
 Research activities:
 * ACACES 2019 - Fifteenth International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems, July 2019, Fiuggi, Italy
