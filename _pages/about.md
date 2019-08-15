@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I’m working as a Research and Teaching assistant at Faculty of Electrical Engineering and Computing (University of Zagreb). I am also pursuing Ph. D. in Computer science in the field of parallel programming/processing and heterogeneous computing.
+I am Research and Teaching assistant working with Computer systems and processes research group at the University of Zagreb, Faculty of Electrical Engineering and Computing(UNIZG FER).
 
-Research interests
-===
-IEEE
-* High performance computing
-* Parallelism 
-* Heterogeneity
+My research interets are mainly heterogeneity and domain-specific languages. Through my PhD (titled "Programming model for heterogeneous computing systems with customizable accelerators"), supervised by Josip Knezovic, I'm aiming to deliver a novel domain-specific language for rapid application development on heterogeneous platforms, while retaining performance comparable with the low-level programming and abstracting implementation details. More details are available on [Research](/research) subpage.
 
+Generally, I have rich experience (10+ years) in software engineering (full-stack web applications, web services development, CMS development), embedded engineering (embedded software, complete IoT solutions), and system administration (Linux based servers). Some of my projects are publicly available on my [Github](https://github.com/bpervan) profile.
 
 General interests
 ===

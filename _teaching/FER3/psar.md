@@ -9,4 +9,4 @@ semester: "Winter"
 programme: "FER3"
 order: 2
 ---
-(The content is being generated, please be patient :)
+(Content is being generated, please be patient :)

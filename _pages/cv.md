@@ -44,12 +44,10 @@ Work experience
 * **Key skills: Research, teaching, leadership, mentoring**
 * Rated average 4.58 (out of 5.00) by students who I work with
 * Representative of teaching assistants to the Faculty General assembly
-* Performing research duties
-* Holding laboratory exercises
+* Performing research and teaching (lectures, laboratory sessions) duties
 * Undergraduate and Master level student leadership
-* Teaching duties and research duties
-* 35% over the norm
-* More details about my research interests, my thesis and projects I have worked on so far are available under the [Research](/research/) page
+<!--* 35% over the norm-->
+* More details about my research interests, my thesis, and projects I have worked on so far are available under the [Research](/research/) page
 
 ### Lecturer, University computing centre, Sep 2017 - Present
 * **Key skills: Presenting, knowledge transfer, lecturing**
@@ -94,20 +92,20 @@ Skills
 * Programming skills
   * Basic: C++, C#, .NET, VHDL
   * Intermediate: Android, C, Python
-  * Scala, PHP, (My)SQL, Java, JavaScript, Play framework, Low level programming
+  * Scala, PHP, (My)SQL, Java, JavaScript, Play framework, Low-level programming
 * Technical skills
   * LaTeX, Git, Linux
   * Software design, Design patterns
 * Other skills
   * Leadership and organization
 
-<!-- 
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
--->
+
 
 Teaching
 ======
