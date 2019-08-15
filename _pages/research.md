@@ -27,7 +27,7 @@ Research activities:
 
 Grants:
 * USENIX Student Grant for USENIX Security Symposium (12. 8. 2019. - 16. 8. 2019., Santa Clara, CA, USA)
-* HiPEAC Collaboration Grant 2019
+* HiPEAC Collaboration Grant (July 2019.)
 * Academic Mobility Grant by University of Zagreb to visit the University of Houston (21. 2. 2019. - 1. 3. 2019., Houston, TX, USA)
 * Academic Mobility Grant by University of Zagreb to visit the University of Cincinnati (11. 3. 2019 - 17. 3. 2019., Cincinnati, OH, USA)
 * HiPEAC Travel Grant to visit the HiPEAC Conference in Valencia (21. 1. 2019. - 23. 1. 2019., Valencia, Spain)
