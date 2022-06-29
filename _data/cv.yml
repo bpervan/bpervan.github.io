@@ -32,7 +32,7 @@
       year: Jun 2022 - Present
       description:
         - Key skills - Research, teaching, leadership, mentoring
-        - What I'm doing
+        - Performing research, teaching, and student mentoring activities
         - title: I am participating in following courses
           contents:
             - Computer Architecture 1R (Undergraduate)
@@ -45,7 +45,7 @@
       year: Apr 2016 - Jun 2022
       description:
         - Key skills - Research, teaching
-        - What I'm doing
+        - Performing research and teaching activities
         - title: I am participating as a teaching assistant in following courses
           contents:
           - Computer Architecture 1R (Undergraduate)
@@ -108,16 +108,39 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Research activities
   type: time_table
   contents:
-    - year: 1921
+    - title: ACACES 2021
+      year: 2021
+      description: Seventeenth International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems, September 2021, Fiuggi, Italy
+    - title: Academic visitation
+      year: 2019
+      description: Professor Philip A. Wilsey, March 2019, Cincinnati, USA
+    - title: ACACES 2019
+      year: 2019
+      description: Fifteenth International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems, July 2019, Fiuggi, Italy
+    - title: Academic visitation
+      year: 2018
+      description: Professor Lennart Johnsson's research group, February 2018, Houston, USA
+
+- title: Grants
+  type: time_table
+  contents:
+    - year: 2021
       items: 
         - Nobel Prize in Physics 
         - Matteucci Medal
-    - year: 2029
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - HiPEAC Collaboration Grant
+        - USENIX Student Grant for USENIX Security Symposium
+        - HiPEAC Travel Grant for HiPEAC Conference in Valencia
+        - HiPEAC Grant for the ACACES 2019 Summer school
+        - Academic Mobility Grant by the University of Zagreb to visit the University of Cincinnati
+    - year: 2018
+      items:
+        - Academic Mobility Grant by the University of Zagreb to visit the University of Houston
 
 - title: Academic Interests
   type: nested_list
