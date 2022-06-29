@@ -31,18 +31,20 @@
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       year: Jun 2022 - Present
       description:
-        - Key skills - 
+        - Key skills - Research, teaching, leadership, mentoring
         - What I'm doing
         - title: I am participating in following courses
           contents:
-            - Course 1
-            - Course 2
+            - Computer Architecture 1R (Undergraduate)
+            - Open Computing (Undergraduate & Graduate)
+            - Parallelism and Concurrency (Undergraduate & Graduate)
+            - Reverse Engineering and Malware Analysis (Undergraduate & Graduate)
 
     - title: Research and teaching assistant
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       year: Apr 2016 - Jun 2022
       description:
-        - Key skills - 
+        - Key skills - Research, teaching
         - What I'm doing
         - title: I am participating as a teaching assistant in following courses
           contents:
