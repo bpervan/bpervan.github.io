@@ -129,33 +129,47 @@
   contents:
     - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
+        - HiPEAC Collaboration grant
+        - Academic Mobility Grant by the University of Zagreb for ACACES 2021 Summer school
+        - HiPEAC grant for the ACACES 2021 Summer school
     - year: 2019
       items: 
-        - HiPEAC Collaboration Grant
-        - USENIX Student Grant for USENIX Security Symposium
-        - HiPEAC Travel Grant for HiPEAC Conference in Valencia
-        - HiPEAC Grant for the ACACES 2019 Summer school
-        - Academic Mobility Grant by the University of Zagreb to visit the University of Cincinnati
+        - HiPEAC Collaboration grant
+        - USENIX Student grant for USENIX Security Symposium
+        - HiPEAC Travel grant for HiPEAC Conference in Valencia
+        - HiPEAC grant for the ACACES 2019 Summer school
+        - Academic Mobility grant by the University of Zagreb to visit the University of Cincinnati
     - year: 2018
       items:
-        - Academic Mobility Grant by the University of Zagreb to visit the University of Houston
+        - Academic Mobility grant by the University of Zagreb to visit the University of Houston
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Parallelism
       items: 
-        - Processing
-        - Programming and programming models
-    - title: Heterogeneity
+        - Parallel processing
+        - Parallel programming and programming models
+    - title: Heterogeneous computing systems
       items:
-        - Description 1.
-        - Description 2.
-    - title: Functional programming
-    - title: (Domain-Specific) programming languages
+        - Accelerators for specific applications
+        - GPGPUs
+        - Heterogeneous computing systems programming
+        - High performance computing
+    - title: Software engineering
+      items:
+        - Domain-specific languages
+        - Functional programming
+        - Software development
     - title: Embedded computing
+      items:
+        - COTS components-based embedded systems development
+        - Software development for embedded systems
+        - Bottom-up module development with application in the field of Internet of Things
+    - title: Open systems
+      items:
+        - Open source software and hardware
+        - Open source community
 
 - title: Other Interests
   type: list
