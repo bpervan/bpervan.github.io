@@ -101,13 +101,6 @@
         - Key skills - PHP, MySQL, HTML, JavaScript
         - I was student assistant on Course “PHP Application development basics”. My responsibilities were to help students with solving problems given at the lectures and to grade and review students home assignments.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Research activities
   type: time_table
   contents:
@@ -124,7 +117,6 @@
       year: 2018
       description: Professor Lennart Johnsson's research group, February 2018, Houston, USA
 
-#Certificates
 #Volunteering (salezijanci, administracija, predstavničenje, ator instruktor)
 #Dopuniti research interests (možda na subpage) pa da se nadoveže nekako na mentoring
 #Honours and awards Fair 2018 i 2019
@@ -181,7 +173,30 @@
         - Open source software and hardware
         - Open source community
 
+- title: Certificates
+  type: nested_list
+  contents:
+    - title: Coursera, EPFL
+      items:
+        - Functional Programming Principles in Scala, Licence no. WRB467R83SD3
+        - Functional Program Design in Scala, Licence no. DSLAMS5ZZFET
+        - Big Data Analysis with Scala and Spark, Licence no. F5U63SVGYLZQ
+    - title: Coursera, University of California, Irvine
+      items:
+        - Initiating and Planning Projects, Licence no. WVC9W3P59SFU
+        - Budgeting and Scheduling Projects, Licence no. ZSFT99WUG3TU
+        - Managing Project Risks and Changes, Licence no. 4RKLYYN8LN6W
+    - title: University of Helsinki
+      items:
+        - Elements of AI, Licence no. w8qv1bjj12
+    - title: Coursera, University of Minnesota
+      items:
+        - Introduction to Recommender Systems, Licence no. JL52FDLRQHAV
+    - title: Microsoft
+      items:
+        - MTA Software Development Fundamentals (C, 98–361)
+
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Street basketball, pub quizzes, travelling
