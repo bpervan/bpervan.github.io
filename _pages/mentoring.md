@@ -4,7 +4,7 @@ permalink: /mentoring/
 title: mentoring
 description: Topic decriptions
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 Placeholder. TBA
