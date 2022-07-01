@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /mentoring/
-title: mentoring
+permalink: /students/
+title: students
 description: Topic decriptions
 nav: true
 nav_order: 2
