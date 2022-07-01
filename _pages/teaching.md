@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List of courses I participat(ed). Some of the course materials can be found here.
+description: List of courses I participate or have participated in. Some of the course materials can be found here.
 nav: true
 nav_order: 5
 ---
