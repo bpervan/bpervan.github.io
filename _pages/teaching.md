@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List of courses I participate or have participated in. Some of the course materials can be found here.
+description: List of courses I participate or have participated in. Some of the course materials might someday be found here.
 nav: true
 nav_order: 5
 ---
@@ -54,7 +54,6 @@ In the upcoming academic year I will be teaching:
 - Computer Architecture 1
 - Multimedia Technologies
 
-TBA.
 {% comment %}
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
