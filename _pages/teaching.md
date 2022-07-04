@@ -8,22 +8,22 @@ nav_order: 5
 ---
 
 # Computer Architecture 1 / 1R
-## 2015/2016 - Present
+### 2015/2016 - Present
 
 # Open Computing
-## 2017/2018 - Present
+### 2017/2018 - Present
 
 # Parallelism and Concurrency
-## 2020/2021 - Present
+### 2020/2021 - Present
 
 # Multimedia Architectures and Systems
-## 2016/2017 - 2019/2020, 2021/2022
+### 2016/2017 - 2019/2020, 2021/2022
 
 # Laboratory of Computer Engineering 1
-## 2016/2017 - 2019/2020, 2021/2022
+### 2016/2017 - 2019/2020, 2021/2022
 
 # Multimedia Technologies
-## 2015/2016 - 2019/2020
+### 2015/2016 - 2019/2020
 
 
 {% comment %}
