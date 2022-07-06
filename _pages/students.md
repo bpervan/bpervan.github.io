@@ -17,6 +17,13 @@ First and foremost, it is important to state that you are completely free to sug
 - GPU programming
 - Custom heterogeneous systems programming. This usually implies systems with accelerators for specific applications.
 
+### Research topics
+- You can plug in to some of the research I'm doing right now. Check out my [research](/research) subpage.
+- Right now, I'm aiming into extending support for advanced memory managemet schemes in [RISE](https://rise-lang.org/)
+- There is also a new project proposal under way with a partner at the University of Ljubljana. Briefly, the project will hopefully aim to extend support for approximate computing accelerators in [RISE](https://rise-lang.org/). Rumours say that such accelerators will be integrated in [HERO](https://pulp-platform.org/hero.html) platform.
+- Let's try something with the [OpenPiton](https://parallel.princeton.edu/openpiton/)
+- Or maybe with any of the [PULP](https://pulp-platform.org/) systems :)
+
 ### Social and political processes modeling and simulation
 - Election simulation
 - Political rating modeling
@@ -26,6 +33,8 @@ First and foremost, it is important to state that you are completely free to sug
 - Construction of embedded systems, IoT modules, and similar devices based on commercial off-the-shelf (COTS) components
 - Software development for embedded systems, microcontrollers, etc.
 - Full bottom-up development of IoT solutions, from data-collecting modules or actuators to web services handling the application logic
+- There is one concrete IoT application development in progress right now, you are free to join.
 
 ### Web services
+- Automated student evaluation and grading systems
 - You could always develop web services or full-stack web applications for whatever domain you want :)
