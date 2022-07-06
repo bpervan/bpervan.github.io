@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-First and foremost, it is important to state that you are completely free to suggest your own topic. Topics listed here comprise an incomplete list and are mainly *suggestions* which are partially in line with what I do my [research](/research) in or I have experience with. Either way, if you are interested in something else and you think that I can help you out with that, feel free to drop me an e-mail. Let's talk :)
+First and foremost, it is important to state that you are completely free to suggest your own topic. Topics listed here are mainly *suggestions*, partially in line with what I do my [research](/research) in or I have experience with. Either way, if you are interested in something else and you think that I can help you out with that, feel free to drop me an e-mail. Let's talk :)
 
 ### Parallelization and HPC programming
 - Parallelization of various problems
