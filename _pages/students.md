@@ -20,10 +20,9 @@ First and foremost, it is important to state that you are completely free to sug
 ### Research topics
 - You can plug in to some of the research I'm doing right now. Check out my [research](/research) subpage.
 - Right now, I'm aiming into extending support for advanced memory managemet schemes in [RISE](https://rise-lang.org/) for the [GAP8](https://greenwaves-technologies.com/gap8_mcu_ai/), a heterogeneous platform I delivered support for in RISE.
-
 - There is also a new project proposal under way with a partner at the University of Ljubljana. Briefly, the project will hopefully aim to extend support for approximate computing accelerators in [RISE](https://rise-lang.org/). Rumours say that such accelerators will be integrated in [HERO](https://pulp-platform.org/hero.html) platform.
-- Let's try something with the [OpenPiton](https://parallel.princeton.edu/openpiton/)
-- Or maybe with any of the [PULP](https://pulp-platform.org/) systems :)
+- Let's try something with the [OpenPiton](https://parallel.princeton.edu/openpiton/)...
+- ...or maybe with any of the [PULP](https://pulp-platform.org/) systems :)
 
 ### Social and political processes modeling and simulation
 - Election simulation
