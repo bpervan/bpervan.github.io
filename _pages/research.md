@@ -22,16 +22,15 @@ Heterogeneous as a word, stemming both from Latin and Greek, by definition means
 While providing much value to performance and energy efficiency, such systems bear their own set of problems, the first of which is programmability. Often, low-level knowledge of architectural details of the system programmed is needed, and more than often such systems are being programmed in low-level languages with little to none of the nowadays standard programming aids. Regarding heterogeneous systems, I'm mostly aiming for research that eases the development of a wide variety of such systems, with the ultimate goal of providing a *lingua franca*.
 
 ### Software engineering
-As I stated before, one of the main challenges that highly parallel and / or heterogeneous systems bear with them is programmability. In the field of software engineering, I'm interested in delivering programming models that allow programmers to efficiently express themselves with respect to the computations that need to be done on systems while abstracting their low-level architectural details. That can be achieved by numerous ways, some of them being by the means of augmenting existing languages with constructs that aid programming of such systems, delivering a domain-specific language which is for me of particular interest, or by developing a completely new language. I'm also interested in developing and optimizing software for high-performance computers.
+As I stated before, one of the main challenges that highly parallel and / or heterogeneous systems bear with them is programmability. In the field of software engineering, I'm interested in delivering programming models that allow programmers to efficiently express themselves with respect to the computations that need to be done on systems while abstracting their low-level architectural details. That can be achieved by numerous ways, some of them being by the means of augmenting existing languages with constructs that aid programming of such systems, delivering a domain-specific language which is for me of particular interest, or by developing a completely new language. I'm also interested in developing and optimizing software for high-performance computers, and development of applications for heterogeneous systems.
 
 While I still develop software for conventional machines ocasionally, I'm not particularly interested in it in a scientific way.
 
 ### Embedded computing
-TBA.
+Embedded computing is a field in which energy efficiency is of particular importance. Embedded computers often drive modules and systems that are battery-powered and thus significantly energy-constrained. In that context, I'm interested in developing and utilizing energy-efficient systems for edge computing that do not serve as data collectors or actuators exclusively but process some of the data on themselves. Accelerators for specific applications which make the most out of the available energy are one possible way to achieve such a paradigm.
 
-### Open systems
-TBA.
-
+#### Note: Open systems
+I'm not scientifically interested in open systems, but I have to mention that all of the aforementioned paradigms and technologies should be driven by open standards and permissive licenses, cherishing the values of personal liberty and privacy.
 
 #### Refs
 \[1\] IEEE Spectrum, “Gordon Moore: The Man Whose Name MeansProgress”, \[Online\]. Available: https://spectrum.ieee.org/gordon-moore-the-man-whose-name-means-progress (July 9 2022.).
