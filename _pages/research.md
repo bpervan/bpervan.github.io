@@ -17,9 +17,12 @@ According to its creator, Moore's law is dead \[1\]. Furthermore, the perceived 
 These are some of the reasons why I try to incorporate parallelism in my research. I do so by studying parallel processing both on the hardware and software layers and parallel programming as means to increase the performance and energy efficiency of the available silicon.
 
 ### Heterogeneous computing systems
-TBA.
+Heterogeneous as a word, stemming both from Latin and Greek, by definition means *consisting of dissimilar or diverse ingredients or constituents* \[4\]. Diverse or dissimilar components in the context of computing systems usually imply processing units of different purposes, most commonly combinations of a general-purpose processor paired with a general-purpose graphics processing unit or a customized accelerator for a specific application. Heterogeneity is according to some authors one of the key development points in reaching and maintaining the efficient Exascale domain \[5\]. Nearly 30% of the systems featured by the Top500 list use the accelerator or co-processor technology \[6\].
+
+While providing much value to performance and energy efficiency, such systems bear their own set of problems, the first of which is programmability. Often, low-level knowledge of architectural details of the system programmed is needed, and more than often such systems are being programmed in low-level languages with little to none of the nowadays standard programming aids. Regarding heterogeneous systems, I'm mostly aiming for research that eases the development of a wide variety of such systems, with the ultimate goal of providing a *lingua franca*.
 
 ### Software engineering
+
 TBA.
 
 ### Embedded computing
@@ -35,3 +38,9 @@ TBA.
 \[2\] Manferdelli, J., Govindaraju, N., and Crall, C., “Challenges and Opportunities in Many-Core Computing”, Proceedings of the IEEE, vol. 96, no. 5, may 2008, pp. 808–815, \[Online\]. Available: http://ieeexplore.ieee.org/document/4484943/
 
 \[3\] Silver, A., “Rethinking CS101 \[Resources_Education\]”, IEEE Spectrum, vol. 54, no. 4, apr 2017, pp. 23–23, \[Online\]. Available: http://ieeexplore.ieee.org/document/7880452/
+
+\[4\] https://www.merriam-webster.com/dictionary/heterogeneous
+
+\[5\] Schulte, M. J., Ignatowski, M., Loh, G. H., Beckmann, B. M., Brantley, W. C., Gurumurthi, S., Jayasena, N., Paul, I., Reinhardt, S. K., and Rodgers, G., “Achieving Exascale Capabilities through Heterogeneous Computing”, IEEE Micro, vol. 35, no. 4, 2015, pp. 26–36.
+
+\[6\] TOP500.org, “TOP500 Expands Exaflops Capacity Amidst Low Turnover", \[Online\]. Available: https://www.top500.org/news/top500-expands-exaflops-capacity-amidst-low-turnover/ (December 9 2021.).
