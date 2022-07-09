@@ -22,8 +22,9 @@ Heterogeneous as a word, stemming both from Latin and Greek, by definition means
 While providing much value to performance and energy efficiency, such systems bear their own set of problems, the first of which is programmability. Often, low-level knowledge of architectural details of the system programmed is needed, and more than often such systems are being programmed in low-level languages with little to none of the nowadays standard programming aids. Regarding heterogeneous systems, I'm mostly aiming for research that eases the development of a wide variety of such systems, with the ultimate goal of providing a *lingua franca*.
 
 ### Software engineering
+As I stated before, one of the main challenges that highly parallel and / or heterogeneous systems bear with them is programmability. In the field of software engineering, I'm interested in delivering programming models that allow programmers to efficiently express themselves with respect to the computations that need to be done on systems while abstracting their low-level architectural details. That can be achieved by numerous ways, some of them being by the means of augmenting existing languages with constructs that aid programming of such systems, delivering a domain-specific language which is for me of particular interest, or by developing a completely new language. I'm also interested in developing and optimizing software for high-performance computers.
 
-TBA.
+While I still develop software for conventional machines ocasionally, I'm not particularly interested in it in a scientific way.
 
 ### Embedded computing
 TBA.
