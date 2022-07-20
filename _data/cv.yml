@@ -40,6 +40,12 @@
             - Parallelism and Concurrency (Undergraduate & Graduate)
             - Reverse Engineering and Malware Analysis (Undergraduate & Graduate)
 
+    - title: Visiting researcher
+      institution: The University of Edinburgh
+      year: Jun 2022 - August 2022
+      description:
+        - During this visit, I worked on performance evaluation of the generated code and on advanced memory management schemes for GAP8 platform in RISE.
+
     - title: Research and teaching assistant
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       year: Apr 2016 - Jun 2022
@@ -57,7 +63,7 @@
       institution: Green Light Technologies Ltd.
       year: Aug 2019 - Present
 
-    - title: Visiting researcher
+    - title: Visiting researcher [Remote]
       institution: The University of Edinburgh
       year: Mar 2021 - Nov 2021
       description:
