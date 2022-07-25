@@ -18,9 +18,10 @@ First and foremost, it is important to state that you are completely free to sug
 - Custom heterogeneous systems programming. This usually implies systems with accelerators for specific applications.
 
 ### Research topics
-- You can plug in to some of the research I'm doing right now. Check out my [research](/research) subpage.
-- Right now, I'm aiming into extending support for advanced memory managemet schemes in [RISE](https://rise-lang.org/) for the [GAP8](https://greenwaves-technologies.com/gap8_mcu_ai/), a heterogeneous platform I delivered support for in RISE.
-- There is also a new project proposal under way with a partner at the University of Ljubljana. Briefly, the project will hopefully aim to extend support for approximate computing accelerators in [RISE](https://rise-lang.org/). Rumours say that such accelerators will be integrated in [HERO](https://pulp-platform.org/hero.html) platform.
+- You can plug into some of the research I'm doing right now. Check out my [research](/research) subpage.
+- Right now, I'm aiming into extending support for advanced memory management schemes in [RISE](https://rise-lang.org/) for the [GAP8](https://greenwaves-technologies.com/gap8_mcu_ai/), a heterogeneous platform I delivered support for in RISE.
+- You might wanna try putting GAP8's Hardware Convolution Engine (HWCE) to good use by utilizing it in a real-world application, like Sobel filter.
+- There is also a new project proposal underway with a partner at the University of Ljubljana. Briefly, the project will hopefully aim to extend support for approximate computing accelerators in [RISE](https://rise-lang.org/). Rumours say that such accelerators will be integrated into [HERO](https://pulp-platform.org/hero.html) platform.
 - Let's try something with the [OpenPiton](https://parallel.princeton.edu/openpiton/)...
 - ...or maybe with any of the [PULP](https://pulp-platform.org/) systems :)
 
