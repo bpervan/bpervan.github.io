@@ -17,6 +17,14 @@ First and foremost, it is important to state that you are completely free to sug
 - GPU programming
 - Custom heterogeneous systems programming. This usually implies systems with accelerators for specific applications.
 
+### Biomedical systems and sensing
+- Nowadays I'm kickstarting the development of a full-scale biomedical system. The system in question will feature multiple components on hardware and software layers including:
+    - sensing equipment produced by our partners
+    - embedded devices as middlemen between sensors and mobile devices
+    - web services and mobile applications
+    - machine learning models
+- There is lots of work to be done on each of the aforementioned components. If you are interested in biomedical systems with real-life applications, feel free to contact me for more details :)
+
 ### Research topics
 - You can plug into some of the research I'm doing right now. Check out my [research](/research) subpage.
 - Right now, I'm aiming into extending support for advanced memory management schemes in [RISE](https://rise-lang.org/) for the [GAP8](https://greenwaves-technologies.com/gap8_mcu_ai/), a heterogeneous platform I delivered support for in RISE.
