@@ -112,6 +112,9 @@
 - title: Research activities
   type: time_table
   contents:
+    - title: Academic visitation
+      year: 2023
+      description: A visit to the professor Michel Steuwer's research group, March 2023, Edinburgh, UK
     - title: ACACES 2021
       year: 2021
       description: Seventeenth International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems, September 2021, Fiuggi, Italy
