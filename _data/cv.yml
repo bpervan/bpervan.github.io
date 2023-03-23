@@ -137,21 +137,27 @@
 - title: Grants
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Academic Mobility Grant by the University of Zagreb for a visit to the University of Edinburgh
+    - year: 2022
+      items:
+        - Academic Mobility Grant by the University of Zagreb for a visit to the University of Edinburgh
     - year: 2021
       items: 
-        - HiPEAC Collaboration grant
+        - HiPEAC Collaboration grant for a visit to the University of Edinburgh - realised in 2022
         - Academic Mobility Grant by the University of Zagreb for ACACES 2021 Summer school
         - HiPEAC grant for the ACACES 2021 Summer school
     - year: 2019
       items: 
-        - HiPEAC Collaboration grant
+        - HiPEAC Collaboration grant for a visit to ETH Zurich
         - USENIX Student grant for USENIX Security Symposium
         - HiPEAC Travel grant for HiPEAC Conference in Valencia
         - HiPEAC grant for the ACACES 2019 Summer school
-        - Academic Mobility grant by the University of Zagreb to visit the University of Cincinnati
+        - Academic Mobility grant by the University of Zagreb for a visit to the University of Cincinnati
     - year: 2018
       items:
-        - Academic Mobility grant by the University of Zagreb to visit the University of Houston
+        - Academic Mobility grant by the University of Zagreb for a visit to the University of Houston
 
 - title: Academic Interests
   type: nested_list
