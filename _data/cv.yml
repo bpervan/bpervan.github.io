@@ -162,6 +162,13 @@
       items:
         - Academic Mobility grant by the University of Zagreb for a visit to the University of Houston
 
+  - title: Talks
+    type: time_table
+    contents:
+      - year: 2023
+        items:
+          - Extensible Compiler to the Rescue - From a High-Level Language to a Heterogeneous System, Institute Jozef Stefan, Slovenia
+
 - title: Academic Interests
   type: nested_list
   contents:
