@@ -9,13 +9,18 @@ nav_order: 2
 
 First and foremost, it is important to state that you are completely free to suggest your own topic. Topics listed here are mainly *suggestions*, partially in line with what I do my [research](/research) in or I have experience with. Either way, if you are interested in something else and you think that I can help you out with that, feel free to drop me an e-mail. Let's talk :)
 
-### Parallelization and HPC programming
-- Parallelization of various problems
-- Do you have an application that you would like to run on an HPC? Optimization, parallelization, and running the application in question on an actual HPC could be your topic :)
+### Compilers - Part 1.
+- I'm looking to start the development of a RISC-V compiler, both for educational and research purposes.
+- Initially, we would like to support a smaller subset of RISC-V ISA, and then gradually continue support for a wider set of extensions. The final goal is to have a working compiler that can be easily extended to support custom extensions which would target customized hardware produced by hardware teams. We aim to use LLVM.
+- If you would like to join a currently forming compiler development team, drop me an email.
 
-### Heterogeneous systems programming and utilization
-- GPU programming
-- Custom heterogeneous systems programming. This usually implies systems with accelerators for specific applications.
+### Compilers - Part 2.
+- You can plug into some of the research I'm doing right now. Check out my [research](/research) subpage.
+- Right now, I'm aiming into extending support for advanced memory management schemes in [RISE](https://rise-lang.org/) for the [GAP8](https://greenwaves-technologies.com/gap8_mcu_ai/), a heterogeneous platform I delivered support for in RISE.
+- You might wanna try putting GAP8's Hardware Convolution Engine (HWCE) to good use by utilizing it in a real-world application, like Sobel filter.
+- There is also a new project proposal underway with a partner at the University of Ljubljana. Briefly, the project will hopefully aim to extend support for approximate computing accelerators in [RISE](https://rise-lang.org/). Rumours say that such accelerators will be integrated into [HERO](https://pulp-platform.org/hero.html) platform.
+- Let's try something with the [OpenPiton](https://parallel.princeton.edu/openpiton/)...
+- ...or maybe with any of the [PULP](https://pulp-platform.org/) systems :)
 
 ### Biomedical systems and sensing
 - Nowadays I'm kickstarting the development of a full-scale biomedical system. The system in question will feature multiple components on hardware and software layers including:
@@ -25,18 +30,18 @@ First and foremost, it is important to state that you are completely free to sug
     - machine learning models
 - There is lots of work to be done on each of the aforementioned components. If you are interested in biomedical systems with real-life applications, feel free to contact me for more details :)
 
-### Research topics
-- You can plug into some of the research I'm doing right now. Check out my [research](/research) subpage.
-- Right now, I'm aiming into extending support for advanced memory management schemes in [RISE](https://rise-lang.org/) for the [GAP8](https://greenwaves-technologies.com/gap8_mcu_ai/), a heterogeneous platform I delivered support for in RISE.
-- You might wanna try putting GAP8's Hardware Convolution Engine (HWCE) to good use by utilizing it in a real-world application, like Sobel filter.
-- There is also a new project proposal underway with a partner at the University of Ljubljana. Briefly, the project will hopefully aim to extend support for approximate computing accelerators in [RISE](https://rise-lang.org/). Rumours say that such accelerators will be integrated into [HERO](https://pulp-platform.org/hero.html) platform.
-- Let's try something with the [OpenPiton](https://parallel.princeton.edu/openpiton/)...
-- ...or maybe with any of the [PULP](https://pulp-platform.org/) systems :)
-
 ### Social and political processes modeling and simulation
 - Election simulation
 - Political rating modeling
 - Maybe out there are some other processes that you would like to model and simulate? :)
+
+### Parallelization and HPC programming
+- Parallelization of various problems
+- Do you have an application that you would like to run on an HPC? Optimization, parallelization, and running the application in question on an actual HPC could be your topic :)
+
+### Heterogeneous systems programming and utilization
+- GPU programming
+- Custom heterogeneous systems programming. This usually implies systems with accelerators for specific applications.
 
 ### Embedded systems
 - Construction of embedded systems, IoT modules, and similar devices based on commercial off-the-shelf (COTS) components
