@@ -27,6 +27,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral research fellow
+      institution: University of Bologna
+      year: Oct 2023 - Sep 2024
+      description:
+        - Key skills - Research
+        - Compiler extensions for heterogeneous systems
     - title: Postdoctoral researcher
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       year: Jun 2022 - Present
