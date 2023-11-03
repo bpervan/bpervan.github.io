@@ -33,8 +33,9 @@
       description:
         - Key skills - Research 
         - I am a Postdoctoral research fellow in the group led by prof. Giuseppe Tagliavini (Dipartimento di Informatica - Scienza e Ingegneria (DISI) at Alma Mater Studiorum - Università di Bologna)
-        - Compiler-centered research for [PULP](https://pulp-platform.org/)-based (Parallel Ultra Low Power) energy-efficient heterogeneous systems
+        - Compiler-centered research for PULP-based (Parallel Ultra Low Power) energy-efficient heterogeneous systems
         - Research is performed in terms of compiler optimizations and compiler support for customized hardware developed under the PULP platform
+        - Project pages are available at https://pulp-platform.org/
 
     - title: Postdoctoral researcher
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
@@ -57,7 +58,8 @@
       description:
         - Key skills - Research
         - I was a visiting researcher in the group led by prof. Michel Steuwer (School of Informatics at The University of Edinburgh)
-        - During this visit, I worked on performance evaluation of the generated code and on advanced memory management schemes for GAP8 platform in [RISE & Shine](https://github.com/rise-lang/shine)
+        - During this visit, I worked on performance evaluation of the generated code and on advanced memory management schemes for GAP8 platform in RISE & Shine
+        - Github project repo is available at https://github.com/rise-lang/shine
 
     - title: Research and teaching assistant
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
