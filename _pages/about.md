@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc @ <a href='https://www.fer.unizg.hr/'>UniZG FER</a>. 
+subtitle: Postdoc @ <a href='https://www.fer.unizg.hr/'>UniZG FER</a> | Research fellow @ <a href'https://disi.unibo.it/en/index.html'>UniBO</a>
 
 #Address. Contacts. Moto. Etc.
 
