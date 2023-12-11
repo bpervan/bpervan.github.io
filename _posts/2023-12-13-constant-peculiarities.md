@@ -6,3 +6,4 @@ description: What you actually want to know about const in various spots in C++
 tags: c++ programming computer-science english engleski
 categories: computer-science
 ---
+Placeholder
