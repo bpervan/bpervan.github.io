@@ -3,7 +3,7 @@ layout: post
 title:  O neradnoj nedjelji
 date:   2023-07-01 12:14:00
 description: O neradnoj nedjelji
-tags: politika ekonomija tržište "radnička prava"
+tags: politika ekonomija market hrvatski croatian
 categories: politika
 ---
 A propos Zakona o trgovini čijim današnjim stupanjem na snagu počinje još jedna iteracija zabrane rada nedjeljom, osjećam potrebu podijeliti nekoliko sitnica. Prije svega, duboko vjerujem da svaki radnik ima pravo na adekvatan odmor, od dnevnog odmora koji jamči razmak između dvaju smjena, preko godišnjeg odmora, pa sve do tjednog odmora koji treba osigurati određeni broj slobodnih dana u tjednu.
