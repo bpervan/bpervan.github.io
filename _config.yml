@@ -108,6 +108,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@branimir.pervan/feed
+  - name: heretica.com.hr
+    rss_url: https://heretica.com.hr/tag/branimir-pervan/feed/
 
 # -----------------------------------------------------------------------------
 # Collections
