@@ -11,11 +11,9 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>UniZG</p>
-    <p>Temp Office C4-04</p>
-    <p>Banjavčićeva 1A</p>
-    <p>Zagreb, HR-10000</p>
-
+    <p>UniZG - Temp office</p>
+    <p>Department of Control and Computer Engineering, Banjavčićeva 1A, Zagreb, HR-10000</p>
+    <p><br /></p>
     <p>UniBO</p>
     <p>Dipartimento di Informatica - Scienza e Ingegneria, Viale Risorgimento 2, Bologna, IT-40136</p>
 
