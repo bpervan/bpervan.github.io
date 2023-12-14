@@ -11,16 +11,20 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Office C11-17</p>
-    <p>Unska 3</p>
+    <p>UniZG</p>
+    <p>Temp Office C4-04</p>
+    <p>Banjavčićeva 1A</p>
     <p>Zagreb, HR-10000</p>
+
+    <p>UniBO</p>
+    <p>Dipartimento di Informatica - Scienza e Ingegneria, Viale Risorgimento 2, Bologna, IT-40136</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral researcher at the University of Zagreb Faculty of Electrical Engineering and Computing (UniZG FER). Right now I'm a Postdoctoral research fellow at Alma Mater Studiorum - Università di Bologna where I perform research in the field of compilers for energy-efficient heterogeneous hardware.
+Currently I am a Postdoctoral research fellow at Alma Mater Studiorum - Università di Bologna where I perform research in the field of compilers for energy-efficient heterogeneous hardware. On a wider scale, I am a member of the <a href="https://pulp-platform.org/index.html">PULP</a> group. At my home institution (University of Zagreb Faculty of Electrical Engineering and Computing) I am on a temporary leave.
 
 My research interests are generally focused on the fields of parallelism, heterogeneous computing systems, compilers, and high-performance computing. I'm particularly interested in the programming of such systems, including through the means of domain-specific languages and functional programming, with the ultimate goal of increasing cumulative performance and energy efficiency. I'm also interested in embedded computing, in terms of systems development and software for embedded systems. I support open-source software, hardware, and community.
 

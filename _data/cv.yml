@@ -196,6 +196,10 @@
         - GPGPUs
         - Heterogeneous computing systems programming
         - High performance computing
+    - title: Compilers
+      items:
+        - Support and optimizations for customized heterogeneous hardware
+        - Detection of the generically-expressed patterns for utilization of the customized hardware
     - title: Software engineering
       items:
         - Domain-specific languages
