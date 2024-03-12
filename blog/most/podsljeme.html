@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PODSLJEME</title>
+<script src="https://cdn.plot.ly/plotly-1.52.2.min.js"></script>
+</head>
+<body>
+<div id="chart"></div>
+<script>
+(function () {
+  var data0 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO GRAČANI","y":[709.0,310.0,87.0,68.0,1003.0,283.0,709.0],"type":"scatter"};
+  var data1 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO MARKUŠEVEC","y":[689.0,325.0,103.0,76.0,1003.0,212.0,591.3684210526316],"type":"scatter"};
+  var data2 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ŠESTINE","y":[403.0,191.0,50.0,31.0,447.0,121.0,403.0],"type":"scatter"};
+  var data3 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO MLINOVI","y":[239.0,113.0,33.0,31.0,234.0,71.0,162.61290322580646],"type":"scatter"};
+  var data4 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO VIDOVEC","y":[87.0,44.0,15.0,12.0,196.0,25.0,52.083333333333336],"type":"scatter"};
+
+  var data = [data0, data1, data2, data3, data4];
+  var layout = {"title":"PODSLJEME"};
+ var config = {};
+
+  Plotly.plot('chart', data, layout, config);
+})();
+</script>
+</body>
+</html>
+       

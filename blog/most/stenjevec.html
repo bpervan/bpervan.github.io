@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>STENJEVEC</title>
+<script src="https://cdn.plot.ly/plotly-1.52.2.min.js"></script>
+</head>
+<body>
+<div id="chart"></div>
+<script>
+(function () {
+  var data0 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ŠPANSKO-JUG","y":[0.0,0.0,494.0,248.0,1729.0,0.0,0.0],"type":"scatter"};
+  var data1 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO VRAPČE-JUG","y":[838.0,429.0,186.0,98.0,776.0,255.0,663.5204081632653],"type":"scatter"};
+  var data2 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO MALEŠNICA","y":[0.0,0.0,273.0,194.0,1104.0,0.0,0.0],"type":"scatter"};
+  var data3 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ŠPANSKO-SJEVER","y":[0.0,0.0,473.0,204.0,1237.0,0.0,0.0],"type":"scatter"};
+  var data4 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO STENJEVEC-JUG","y":[0.0,0.0,259.0,137.0,911.0,0.0,0.0],"type":"scatter"};
+  var data5 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO MATIJA GUBEC","y":[417.0,217.0,64.0,44.0,402.0,154.0,417.0],"type":"scatter"};
+
+  var data = [data0, data1, data2, data3, data4, data5];
+  var layout = {"title":"STENJEVEC"};
+ var config = {};
+
+  Plotly.plot('chart', data, layout, config);
+})();
+</script>
+</body>
+</html>
+       

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SESVETE</title>
+<script src="https://cdn.plot.ly/plotly-1.52.2.min.js"></script>
+</head>
+<body>
+<div id="chart"></div>
+<script>
+(function () {
+  var data0 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ADAMOVEC","y":[0.0,0.0,13.0,2.0,101.0,0.0,0.0],"type":"scatter"};
+  var data1 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO POPOVEC","y":[0.0,0.0,13.0,9.0,149.0,0.0,0.0],"type":"scatter"};
+  var data2 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO KAŠINA","y":[0.0,0.0,29.0,13.0,187.0,0.0,0.0],"type":"scatter"};
+  var data3 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO KOBILJAK","y":[0.0,0.0,65.0,47.0,427.0,0.0,0.0],"type":"scatter"};
+  var data4 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO SESVETSKA SELA","y":[0.0,0.0,85.0,55.0,804.0,0.0,0.0],"type":"scatter"};
+  var data5 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO CENTAR","y":[0.0,0.0,25.0,21.0,168.0,0.0,0.0],"type":"scatter"};
+  var data6 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO PREPUŠTOVEC","y":[0.0,0.0,4.0,2.0,33.0,0.0,0.0],"type":"scatter"};
+  var data7 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO KAŠINSKA SOPNICA","y":[0.0,0.0,2.0,4.0,29.0,0.0,0.0],"type":"scatter"};
+  var data8 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO SESVETSKA SELNICA","y":[0.0,0.0,28.0,22.0,307.0,0.0,0.0],"type":"scatter"};
+  var data9 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO VUGROVEC DONJI","y":[0.0,0.0,21.0,15.0,212.0,0.0,0.0],"type":"scatter"};
+  var data10 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO KUČILOVINA","y":[0.0,0.0,5.0,0.0,31.0,0.0,null],"type":"scatter"};
+  var data11 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO PARUŽEVINA","y":[0.0,0.0,10.0,4.0,78.0,0.0,0.0],"type":"scatter"};
+  var data12 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO STARO BRESTJE","y":[0.0,0.0,156.0,100.0,1139.0,0.0,0.0],"type":"scatter"};
+  var data13 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO NOVI JELKOVEC","y":[0.0,0.0,143.0,73.0,903.0,0.0,0.0],"type":"scatter"};
+  var data14 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO GORANEC","y":[0.0,0.0,4.0,2.0,52.0,0.0,0.0],"type":"scatter"};
+  var data15 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ŠIMUNČEVEC","y":[0.0,0.0,3.0,0.0,42.0,0.0,null],"type":"scatter"};
+  var data16 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO JELKOVEC","y":[0.0,0.0,18.0,12.0,205.0,0.0,0.0],"type":"scatter"};
+  var data17 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO PLANINA DONJA","y":[0.0,0.0,4.0,3.0,52.0,0.0,0.0],"type":"scatter"};
+  var data18 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO LUKA","y":[0.0,0.0,50.0,28.0,342.0,0.0,0.0],"type":"scatter"};
+  var data19 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO LUŽAN","y":[0.0,0.0,5.0,8.0,92.0,0.0,0.0],"type":"scatter"};
+  var data20 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO KRALJEVEČKI NOVAKI","y":[0.0,0.0,43.0,27.0,403.0,0.0,0.0],"type":"scatter"};
+  var data21 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ŽERJAVINEC","y":[0.0,0.0,2.0,3.0,66.0,0.0,0.0],"type":"scatter"};
+  var data22 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO GLAVNIČICA","y":[0.0,0.0,4.0,5.0,25.0,0.0,0.0],"type":"scatter"};
+  var data23 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO BUDENEC","y":[0.0,0.0,8.0,11.0,58.0,0.0,0.0],"type":"scatter"};
+  var data24 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO SESVETSKA SOPNICA","y":[0.0,0.0,38.0,27.0,436.0,0.0,0.0],"type":"scatter"};
+  var data25 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO BELOVAR","y":[0.0,0.0,5.0,9.0,67.0,0.0,0.0],"type":"scatter"};
+  var data26 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO CERJE-SESVETE","y":[0.0,0.0,5.0,1.0,52.0,0.0,0.0],"type":"scatter"};
+  var data27 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO DOBRODOL","y":[0.0,0.0,43.0,21.0,213.0,0.0,0.0],"type":"scatter"};
+  var data28 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO VURNOVEC","y":[0.0,0.0,5.0,1.0,20.0,0.0,0.0],"type":"scatter"};
+  var data29 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO SOBLINEC","y":[0.0,0.0,20.0,7.0,165.0,0.0,0.0],"type":"scatter"};
+  var data30 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO BLAGUŠA","y":[0.0,0.0,6.0,4.0,77.0,0.0,0.0],"type":"scatter"};
+  var data31 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO GAJEC","y":[0.0,0.0,8.0,6.0,34.0,0.0,0.0],"type":"scatter"};
+  var data32 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO SESVETSKI KRALJEVEC","y":[0.0,0.0,184.0,120.0,970.0,0.0,0.0],"type":"scatter"};
+  var data33 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO JESENOVEC","y":[0.0,0.0,3.0,4.0,51.0,0.0,0.0],"type":"scatter"};
+  var data34 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ĐURĐEKOVEC","y":[0.0,0.0,9.0,6.0,82.0,0.0,0.0],"type":"scatter"};
+  var data35 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO GAJIŠĆE","y":[0.0,0.0,204.0,127.0,1332.0,0.0,0.0],"type":"scatter"};
+  var data36 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO NOVO BRESTJE","y":[0.0,0.0,72.0,35.0,539.0,0.0,0.0],"type":"scatter"};
+  var data37 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO PREKVRŠJE","y":[0.0,0.0,6.0,9.0,96.0,0.0,0.0],"type":"scatter"};
+  var data38 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO PLANINA GORNJA","y":[0.0,0.0,3.0,1.0,14.0,0.0,0.0],"type":"scatter"};
+  var data39 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO MORAVČE","y":[0.0,0.0,10.0,3.0,66.0,0.0,0.0],"type":"scatter"};
+  var data40 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO GLAVNICA GORNJA","y":[0.0,0.0,1.0,6.0,25.0,0.0,0.0],"type":"scatter"};
+  var data41 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO DRENČEC","y":[0.0,0.0,1.0,0.0,17.0,0.0,null],"type":"scatter"};
+  var data42 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO VUGROVEC GORNJI","y":[0.0,0.0,6.0,0.0,47.0,0.0,null],"type":"scatter"};
+  var data43 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO DUMOVEC","y":[0.0,0.0,25.0,14.0,159.0,0.0,0.0],"type":"scatter"};
+  var data44 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO ŠAŠINOVEC","y":[0.0,0.0,4.0,8.0,97.0,0.0,0.0],"type":"scatter"};
+  var data45 = {"x":["PARL2015","PARL2016","LOC2017","EU2019","PRED2019","PARL2020","LOC2021"],"name":"MO GLAVNICA DONJA","y":[0.0,0.0,6.0,2.0,68.0,0.0,0.0],"type":"scatter"};
+
+  var data = [data0, data1, data2, data3, data4, data5, data6, data7, data8, data9, data10, data11, data12, data13, data14, data15, data16, data17, data18, data19, data20, data21, data22, data23, data24, data25, data26, data27, data28, data29, data30, data31, data32, data33, data34, data35, data36, data37, data38, data39, data40, data41, data42, data43, data44, data45];
+  var layout = {"title":"SESVETE"};
+ var config = {};
+
+  Plotly.plot('chart', data, layout, config);
+})();
+</script>
+</body>
+</html>
+       
