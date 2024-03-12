@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  On const keyword and its peculiarities in C++
-date:   2023-12-18 12:14:00
+date:   2024-05-01 12:00:00
 description: What you actually want to know about const in various spots in C++
 tags: c++ programming computer-science english engleski
 categories: computer-science
