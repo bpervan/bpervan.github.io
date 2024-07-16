@@ -10,8 +10,12 @@ nav_order: 2
 First and foremost, it is important to state that you are completely free to suggest your own topic. Topics listed here are mainly *suggestions*, partially in line with what I do my [research](/research) in or I have experience with. Either way, if you are interested in something else and you think that I can help you out with that, feel free to drop me an e-mail. Let's talk :)
 
 ### Compilers - Part 1.
+- I'm particularly interested in compilers within the context of heterogeneous and embedded computing systems, be it designing novel programming languages or transformations that aid programming of such systems.
+<!--
 - I'm looking to start the development of a RISC-V compiler, both for educational and research purposes.
 - Initially, we would like to support a smaller subset of RISC-V ISA, and then gradually continue support for a wider set of extensions. The final goal is to have a working compiler that can be easily extended to support custom extensions which would target customized hardware produced by hardware teams. We aim to use LLVM.
+-->
+- This section is to be filled with additional details in due time :)
 - If you would like to join a currently forming compiler development team, drop me an email.
 
 ### Compilers - Part 2.
