@@ -4,7 +4,7 @@ title: students
 permalink: /students/
 description: Topic decriptions.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 First and foremost, it is important to state that you are completely free to suggest your own topic. Topics listed here are mainly _suggestions_, partially in line with what I do my [research](/research) in or I have experience with. Either way, if you are interested in something else and you think that I can help you out with that, feel free to drop me an e-mail. Let's talk :)

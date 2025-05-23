@@ -1,13 +1,3 @@
-#- title: General Information
-#  type: map
-#  contents:
-#    - name: Full Name
-#      value: Albert Einstein
-#    - name: Date of Birth
-#      value: 14th March 1879
-#    - name: Languages
-#      value: English, German
-
 - title: Education
   type: time_table
   contents:
@@ -27,19 +17,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral research fellow
-      institution: University of Bologna
-      year: Oct 2023 - Sep 2024
-      description:
-        - Key skills - Research
-        - I am a Postdoctoral research fellow in the group led by prof. Giuseppe Tagliavini (Dipartimento di Informatica - Scienza e Ingegneria (DISI) at Alma Mater Studiorum - Università di Bologna)
-        - Compiler-centered research for PULP-based (Parallel Ultra Low Power) energy-efficient heterogeneous systems
-        - Research is performed in terms of compiler optimizations and compiler support for customized hardware developed under the PULP platform
-        - Project pages are available at https://pulp-platform.org/
-
     - title: Postdoctoral researcher
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
-      year: Jun 2022 - Present
+      year: 2022.06 - 
       description:
         - Key skills - Research, teaching, leadership, mentoring
         - Performing research, teaching, and student mentoring activities
@@ -52,9 +32,19 @@
             - Parallelism and Concurrency (Undergraduate & Graduate)
             - Reverse Engineering and Malware Analysis (Undergraduate & Graduate)
 
+    - title: Postdoctoral research fellow
+      institution: University of Bologna
+      year: 2023.10 - 2024.09
+      description:
+        - Key skills - Research
+        - I am a Postdoctoral research fellow in the group led by prof. Giuseppe Tagliavini (Dipartimento di Informatica - Scienza e Ingegneria (DISI) at Alma Mater Studiorum - Università di Bologna)
+        - Compiler-centered research for PULP-based (Parallel Ultra Low Power) energy-efficient heterogeneous systems
+        - Research is performed in terms of compiler optimizations and compiler support for customized hardware developed under the PULP platform
+        - Project pages are available at https://pulp-platform.org/
+
     - title: Visiting researcher
       institution: The University of Edinburgh
-      year: Jun 2022 - Aug 2022
+      year: 2022.06 - 2022.08
       description:
         - Key skills - Research
         - I was a visiting researcher in the group led by prof. Michel Steuwer (School of Informatics at The University of Edinburgh)
@@ -63,7 +53,7 @@
 
     - title: Research and teaching assistant
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
-      year: Apr 2016 - Jun 2022
+      year: 2016.04 - 2022.06
       description:
         - Key skills - Research, teaching
         - Performing research and teaching activities
@@ -76,23 +66,23 @@
 
     - title: Software engineer
       institution: Green Light Technologies Ltd.
-      year: Aug 2019 - May 2022
+      year: 2019.08 - 2022.05
 
     - title: Visiting researcher [Remote]
       institution: The University of Edinburgh
-      year: Mar 2021 - Nov 2021
+      year: 2021.03 - 2021.11
       description:
         - During this remote collaboration, I worked on integrating Rise, a functional pattern-based data-parallel language into heterogeneous, energy-efficient, embedded devices.
 
     - title: Lecturer
       institution: University Computing Centre
-      year: Sep 2017 - Jul 2019
+      year: 2017.09 - 2019.07
       description:
         - Held lectures for "Introduction to PHP and MySQL" course.
 
     - title: Software engineer
       institution: Croatian bishop conference
-      year: Oct 2014 - Nov 2017
+      year: 2014.10 - 2017.11
       description:
         - Key skills - PHP, MySQL, Wordpress, HTML, CSS, JavaScript
         - This position was a part time job which consisted of maintaining custom CMS solution, and building new one using Wordpress CMS.
@@ -100,7 +90,7 @@
 
     - title: Junior software engineer
       institution: Sedam IT
-      year: Mar 2015 - Apr 2016
+      year: 2015.03 - 2016.04
       description:
         - Key skills - Java, C#, .NET 4.5, JavaScript, Scala, Cisco
         - I was working as a junior software engineer in Research and development unit where I was developing for various platforms
@@ -108,7 +98,7 @@
 
     - title: Software engineering intern
       institution: Ericsson
-      year: Jun 2014 - Sep 2014
+      year: 2014.06 - 2014.09
       description:
         - Key skills - Java, Android, OpenCV, REST, Google Glass
         - As a part of Ericsson Summer camp, I worked on a project named “Google Glass shopping” which was extension to the Ericsson Wallet platform.
@@ -116,7 +106,7 @@
 
     - title: Student assistant
       institution: University of Zagreb, Faculty of Electrical Engineering and Computing
-      year: Feb 2013 - Jul 2013
+      year: 2013.02 - 2013.07
       description:
         - Key skills - PHP, MySQL, HTML, JavaScript
         - I was student assistant on Course “PHP Application development basics”. My responsibilities were to help students with solving problems given at the lectures and to grade and review students home assignments.

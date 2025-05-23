@@ -126,6 +126,8 @@ external_sources:
     rss_url: https://medium.com/@branimir.pervan/feed
   - name: heretica.com.hr
     rss_url: https://heretica.com.hr/tag/branimir-pervan/feed/
+  - name: substack.com
+    rss_url: https://branimirpervan.substack.com/feed
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -622,9 +624,9 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+#jekyll_get_json:
+#  - data: resume
+#    json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics

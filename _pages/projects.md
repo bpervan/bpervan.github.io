@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Incomplete list of work and non-work related projects.
 nav: true
-nav_order: 3
+nav_order: 6
 display_categories: [work, fun]
 horizontal: false
 ---
