@@ -28,8 +28,9 @@
         - title: I am participating in the following courses
           contents:
             - Computer Architecture 1R (Undergraduate)
-            - Open Computing (Undergraduate & Graduate)
+            - Computer Architecture 1E (Undergraduate)
             - Parallelism and Concurrency (Undergraduate & Graduate)
+            - Open Computing (Undergraduate & Graduate)
             - Reverse Engineering and Malware Analysis (Undergraduate & Graduate)
 
     - title: Postdoctoral research fellow
@@ -37,7 +38,7 @@
       year: 2023.10 - 2024.09
       description:
         - Key skills - Research
-        - I am a Postdoctoral research fellow in the group led by prof. Giuseppe Tagliavini (Dipartimento di Informatica - Scienza e Ingegneria (DISI) at Alma Mater Studiorum - Università di Bologna)
+        - I was a Postdoctoral research fellow in the group led by prof. Giuseppe Tagliavini (Dipartimento di Informatica - Scienza e Ingegneria (DISI) at Alma Mater Studiorum - Università di Bologna)
         - Compiler-centered research for PULP-based (Parallel Ultra Low Power) energy-efficient heterogeneous systems
         - Research is performed in terms of compiler optimizations and compiler support for customized hardware developed under the PULP platform
         - Project pages are available at https://pulp-platform.org/
@@ -115,6 +116,9 @@
   type: time_table
   contents:
     - title: Academic visitation
+      year: 2025
+      description: A visit to PULP group at the University of Bologna, February 2025, Bologna, Italy
+    - title: Academic visitation
       year: 2023
       description: A visit to the professor Michel Steuwer's research group, March 2023, Edinburgh, UK
     - title: ACACES 2021
@@ -142,6 +146,9 @@
 - title: Grants
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Academic Mobility Grant by the University of Zagreb for a visit to the University of Bologna
     - year: 2023
       items:
         - Research Fellowship for a one year stay at Alma Mater Studiorum - Università di Bologna
